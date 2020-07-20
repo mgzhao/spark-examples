@@ -7,7 +7,7 @@ An EMR Notebook is a "serverless" Jupyter notebook. Unlike a traditional noteboo
 For more information, please go to https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-notebooks.html
 
 
-## Launch GPU Cluster with EMR Notebook for Mortgage Small Dataset (200G)
+## Launch GPU Cluster with EMR Notebook for Mortgage Small Dataset (200M)
 
 ### Step 1:  Create EMR Notebook and Cluster using Amazon EMR GUI
 
