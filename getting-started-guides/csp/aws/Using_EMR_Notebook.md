@@ -58,7 +58,7 @@ accuracy: Double = 0.9875007589803053
 To avoid ongoing charges for resources you created for this benchmarking, delete all the resources you created for this benchmarking. This includes the data on Amazon S3 bucket, Amazon EMR Cluster, and the Amazon EMR Notebook. 
 
 
-## Launch GPU Cluster with EMR Notebook for Mortgage Small Dataset (200G)
+## Launch GPU Cluster with EMR Notebook for 20-Year Mortgage Full Dataset (200G)
 
 
 ### Step 1: Create GPU Clustger separately Using AWS CLI or AWS Console
